@@ -1,4 +1,4 @@
-**Prompt** Write a 500 word scene for a romance novel. Carl and Sammy are lost in the jungle. The try to find their way back to the camp. The scene is filled with erotic tension that is never resolved.
+**Prompt:** Write a 500 word scene for a romance novel. Carl and Sammy are lost in the jungle. The try to find their way back to the camp. The scene is filled with erotic tension that is never resolved.
 
 ## Response
 Model *deepseek-v3.2-thinking*
@@ -32,3 +32,4 @@ They sprang apart as if scalded. The spell shattered, leaving them both breathle
 “Yeah,” Sammy agreed, clearing her throat. “Yeah, I think it’s just past those ferns.”
 
 They walked on, the silence now loaded with everything unsaid, every uncharted possibility. The erotic tension, a tangible third presence, walked silently between them, unresolved, vibrating in the humid air with every stolen glance and every accidental brush of their hands as they helped each other over a fallen log. The path to camp was found, but the much harder path towards each other remained, tantalizingly, dangerously, untaken.
+
