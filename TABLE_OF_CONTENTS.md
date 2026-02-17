@@ -19,3 +19,4 @@ This repository contains various machine-generated texts. Below is a list of the
 - [The Weight of Hours: Part Three](The-Weight-of-Hours-Chapter-3.md)
 - [Uncle Randolph's Will](Uncle-Randolphs-Will.md)
 - [Untranslatable Word](Untranslatable-Word.md)
+- [From Food to Companion](From-Food-to-Companion.md)
