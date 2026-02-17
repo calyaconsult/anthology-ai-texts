@@ -1,4 +1,4 @@
-**Prompt** Write a 500 word scene for a mid-twentieth-century style adventure novel. Billy and Ellen are lost in the jungle. The try to find their way back to the camp and discover the remains of an ancient temple.
+**Prompt:** Write a 500 word scene for a mid-twentieth-century style adventure novel. Billy and Ellen are lost in the jungle. The try to find their way back to the camp and discover the remains of an ancient temple.
 
 ## Response
 Model *Mistral*
@@ -44,3 +44,4 @@ The growl came again, closer this time. Something moved in the darkness.
 Billy grabbed Ellen’s arm. “Run.”
 
 They bolted for the entrance, the jungle swallowing them whole as the temple’s secrets faded behind them. The camp would have to wait. Survival came first.
+
