@@ -1,0 +1,21 @@
+# Table of Contents
+
+This repository contains various machine-generated texts. Below is a list of the included stories and fragments.
+
+- [A Caravan Arrives (YA Fantasy)](A%20Caravan%20Arrives%20-%20YA%20Fantasy.md)
+- [Arachne (SF)](Arachne-SF.md)
+- [Erotic Tension (Female POV)](Erotic-Tension-Female-POV.md)
+- [Erotic Tension (Male POV)](Erotic-Tension-Male-POV.md)
+- [Port Saplaya Diary (ChatGPT)](Port-Saplaya-Diary-ChatGPT.md)
+- [Robots' Six-Day Week](Robots-Six-Day-Week.md)
+- [Semiotic Maze](Semiotic-Maze.md)
+- [Shadows of the Forgotten Temple](Shadows-of-the-Forgotten-Temple.md)
+- [Sometown, Nebraska: Arrival of Villain](Sometown-Nebraska-Arrival-of-Villain.md)
+- [Sunrise in Bergen (Claude 4.6)](Sunrise-in-Bergen-Claude46.md)
+- [The Descent (Anonymous)](The-Descent-Anonymous.md)
+- [The Descent (Minimax)](The-Descent-Minimax.md)
+- [The Descent (Mistral)](The-Descent-Mistral.md)
+- [The Synthetic Philosopher: Sameness and Difference](The-Synthetic-Philosopher.md)
+- [The Weight of Hours: Part Three](The-Weight-of-Hours-Chapter-3.md)
+- [Uncle Randolph's Will](Uncle-Randolphs-Will.md)
+- [Untranslatable Word](Untranslatable-Word.md)
