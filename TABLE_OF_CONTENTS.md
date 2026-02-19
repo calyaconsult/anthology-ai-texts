@@ -6,6 +6,7 @@ This repository contains various machine-generated texts. Below is a list of the
 - [Arachne (SF)](Arachne-SF.md)
 - [Erotic Tension (Female POV)](Erotic-Tension-Female-POV.md)
 - [Erotic Tension (Male POV)](Erotic-Tension-Male-POV.md)
+- [Morning Routine (DeepSeek)](Morning-Routine-DeepSeek.md)
 - [Port Saplaya Diary (ChatGPT)](Port-Saplaya-Diary-ChatGPT.md)
 - [Robots' Six-Day Week](Robots-Six-Day-Week.md)
 - [Semiotic Maze](Semiotic-Maze.md)
