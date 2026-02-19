@@ -4,6 +4,7 @@ This repository contains various machine-generated texts. Below is a list of the
 
 - [A Caravan Arrives (YA Fantasy)](A%20Caravan%20Arrives%20-%20YA%20Fantasy.md)
 - [Arachne (SF)](Arachne-SF.md)
+- [Barcelona Thunderstorm (DeepSeek)](Barcelona-Thunderstorm-DeepSeek.md)
 - [Erotic Tension (Female POV)](Erotic-Tension-Female-POV.md)
 - [Erotic Tension (Male POV)](Erotic-Tension-Male-POV.md)
 - [Morning Routine (DeepSeek)](Morning-Routine-DeepSeek.md)
