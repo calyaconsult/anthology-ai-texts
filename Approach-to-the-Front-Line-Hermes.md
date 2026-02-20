@@ -28,7 +28,7 @@ They push forward, the front line now a cacophony of machine guns and mortars. J
 
 The front line isn’t a place—it’s a state of mind. And they’re in it now.
 
-**Prompt:**
+**Prompt:** Write the same scene from the point of view of civilians hiding in the farm house.
 
 ## Response
 
@@ -56,3 +56,4 @@ Claire drops the knife, her hands trembling. Élise crawls from under the table,
 She turns him away, toward the blackened fields. Somewhere, a bird sings—a foolish sound. The war hasn’t ended, but for now, the farmhouse stands. They’re alive.  
 
 But for how long?
+
