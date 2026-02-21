@@ -3,6 +3,8 @@
 This repository contains various machine-generated texts. Below is a list of the included stories and fragments.
 
 - [A Caravan Arrives (YA Fantasy)](A%20Caravan%20Arrives%20-%20YA%20Fantasy.md)
+- [Approad to the Front Line (Claude)](Approach-to-the-Front-Line-Claude.md)
+- [Approad to the Front Line (Hermes)](Approach-to-the-Front-Line-Hermes.md)
 - [Arachne (SF)](Arachne-SF.md)
 - [Barcelona Thunderstorm (DeepSeek)](Barcelona-Thunderstorm-DeepSeek.md)
 - [Erotic Tension (Female POV)](Erotic-Tension-Female-POV.md)
