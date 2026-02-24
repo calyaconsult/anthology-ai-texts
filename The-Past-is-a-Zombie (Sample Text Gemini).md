@@ -3,7 +3,7 @@ Complete the chapter of a psychological novel that begins with: "I used to say t
 What I had was something else.
 Something declared over that kept getting up."
 
-Reference: The-Past-is-a-Zombie (ChatGPT5).md
+Reference: [The-Past-is-a-Zombie (ChatGPT5).md](https://github.com/calyaconsult/anthology-metatexts/blob/d28f6b8835620486bbe94d5af8578f28751d38ac/The-Past-is-a-Zombie%20(ChatGPT5).md)
 
 ## Response
 Model: *google/gemini-3.1-pro*
@@ -64,3 +64,4 @@ The phone on the nightstand buzzed again. The screen flared to life, casting my 
 I slowly slid my legs out of bed, my bare feet touching the cold hardwood. I didn't reach for the baseball bat I kept under the mattress. I didn't reach for the phone to dial 911. You don't call the police on a ghost, and you can't bludgeon a memory to death. If the past had come back to drag me under, I was going to have to drown it myself.
 
 I walked toward the door.
+
