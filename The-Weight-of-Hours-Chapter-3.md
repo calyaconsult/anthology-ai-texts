@@ -1,3 +1,8 @@
+**Prompt:** See Metatext [The-Weight-of-Hours-Editors-Note.md](https://github.com/calyaconsult/anthology-metatexts/blob/727e4114b45702215bf20547a67f5814c74eec1d/The-Weight-of-Hours-Editors-Note.md)
+
+## Response
+Model *Unknown*
+
 # The Weight of Hours
 ## Part Three: The Past Is a Zombie
 ### Chapter One
@@ -83,3 +88,4 @@ She'd scatter the ashes eventually. Or she wouldn't. It didn't matter as much as
 The coffee shop would be here next week. So would she.
 
 That was the only truth that mattered now.
+
