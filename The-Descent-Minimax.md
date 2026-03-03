@@ -12,7 +12,7 @@ This opening establishes the protagonist's current state—uncomfortable with un
 
 
 ## Response
-Model: MiniMax
+Model *MiniMax*
 
 **Title: The Descent**  
 **Chapter 1: Unnamed**  
@@ -54,3 +54,4 @@ The world tilted. Somewhere, a dog howled.
 - The hospital call disrupts their “carefully controlled world,” forcing action.  
 - The protagonist’s physical journey (mountains → barrio) mirrors their emotional descent into vulnerability and growth.  
 - The name *Eleanor Voss* (revealed via the call) will tie to a hidden family history or obligation, challenging their passivity.
+
