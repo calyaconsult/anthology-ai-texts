@@ -1,4 +1,4 @@
-**Prompt** Rewrite this [German text](Die-falsche-Gräfin%20(Claude%20Opus).md) in English and adapt it to a British setting.
+**Prompt:** Rewrite this [German text](Die-falsche-Gräfin%20(Claude%20Opus).md) in English and adapt it to a British setting.
 
 ## Response
 Model *anthropic/claude-opus-4.6*
@@ -92,4 +92,5 @@ And for the first time since Viktor had spoken the name Šternberg-Kolowrat, he 
 ---
 
 *To be continued.*
+
 
