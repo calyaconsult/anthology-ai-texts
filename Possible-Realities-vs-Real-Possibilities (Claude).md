@@ -1,4 +1,4 @@
-*Prompt:** Write a 600 word literary text that revolves around "possible realities and real possibilities."
+**Prompt:** Write a 600 word literary text that revolves around "possible realities and real possibilities."
 
 ## Response
 Model *Claude Sonnet 4.6*
@@ -24,3 +24,4 @@ What I have learned to do, slowly, badly, with great resistance, is to grieve th
 The map keeps folding. I keep unfolding it. Outside the window, in whatever city this is, someone is standing in a hallway, counting minutes, learning the weight of a choice that has not yet been made.
 
 It is the most human thing I can imagine.
+
