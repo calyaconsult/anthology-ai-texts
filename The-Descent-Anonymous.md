@@ -7,7 +7,7 @@ The physical journey through Tucson's diverse landscape becomes a metaphor for t
 The chapter ends with their arrival at the destination where, unbeknownst to them, they will soon receive "the call" that will shatter their carefully controlled world and demand they shed their hesitant nature to face life's biggest decision with newfound courage.
 
 ## Response
-Model: Unknown
+Model *Unknown*
 
 ### The Descent
 
@@ -24,3 +24,4 @@ The music swelled, and Alex considered asking the driver to change the station b
 By the time they reached the address—a modest house in a neighborhood where bougainvillea spilled over low walls and the sound of multiple conversations in multiple languages drifted from various patios—Alex felt both exhausted and oddly exhilarated by the journey. They paid the fare with exact change, as always, and stood watching the taxi disappear around a corner before turning toward the house that would, unbeknownst to them, become the setting for the most significant moment of their life thus far.
 
 The music from inside suggested the gathering was already well underway, and Alex hesitated once more at the gate, gift bag in hand, wondering if it was too late to call another taxi and retreat to the familiar silence of their studio apartment. They had no way of knowing that within the hour, their phone would ring with news that would render their current anxieties trivial and demand reserves of courage they weren't sure they possessed.
+
