@@ -1,4 +1,4 @@
-**Prompt** Die Idee zu einem Heftroman der Gattung "Adelsroman" ist: Ein Prinz, dessen Vater seinem Lebensende nahe ist, muss heiraten, sonst kann er den Vater nicht beerben. Sein engster Freund vermittelt die Bekanntschaft mit einer Frau "aus altem böhmischem Adel", die aber eine Betrügerin bürgerlichen Standes ist. Zufällig lernt der Prinz eine Studentin kennen, die nicht weiss, dass ihre Vorfahren dem baltischen Hochadel angehörten. Der Prinz verliebt sich in sie, sieht sich aber aus politischen Gründen gezwungen in die Ehe mit der "böhmischen Adligen" einzuwilligen. Erst kurz vor der offiziellen Verlobung löst sich das Verwirrspiel auf. Die Betrügerin wird entlarvt und die Studentin als von hohem Stande anerkannt. Erstelle eine Textprobe, die zeigt, wie die Szene gestaltet sein könnte, in der die Betrügerin für einen Augenblick aus der Rolle fällt und ahnen lässt, dass sie nicht die ist, als die sie erscheinen möchte.
+**Prompt:** Die Idee zu einem Heftroman der Gattung "Adelsroman" ist: Ein Prinz, dessen Vater seinem Lebensende nahe ist, muss heiraten, sonst kann er den Vater nicht beerben. Sein engster Freund vermittelt die Bekanntschaft mit einer Frau "aus altem böhmischem Adel", die aber eine Betrügerin bürgerlichen Standes ist. Zufällig lernt der Prinz eine Studentin kennen, die nicht weiss, dass ihre Vorfahren dem baltischen Hochadel angehörten. Der Prinz verliebt sich in sie, sieht sich aber aus politischen Gründen gezwungen in die Ehe mit der "böhmischen Adligen" einzuwilligen. Erst kurz vor der offiziellen Verlobung löst sich das Verwirrspiel auf. Die Betrügerin wird entlarvt und die Studentin als von hohem Stande anerkannt. Erstelle eine Textprobe, die zeigt, wie die Szene gestaltet sein könnte, in der die Betrügerin für einen Augenblick aus der Rolle fällt und ahnen lässt, dass sie nicht die ist, als die sie erscheinen möchte.
 
 ## Response
 Model *anthropic/claude-opus-4.6*
@@ -92,3 +92,4 @@ Und zum ersten Mal seit Viktor ihm den Namen Šternberg-Kolowrat genannt hatte, 
 ---
 
 *Fortsetzung folgt.*
+
