@@ -2,7 +2,7 @@
 
 *Model: anthropic/claude-fable-5*
 
-Three promts, three versions of chapter 1.
+Three prompts, three versions of chapter 1.
 
 *Prompt 1:* We're writing a noir novel. Setting: a place in northern france, called "Sombreville." Protagonist: a private eye sent by a London law firm. The mystery: The archbishop of Sombrevill was found dead in his study. Police say he died from natural causes, most probably a heart attack. Write the introductory scene: Arrival in Sombreville.
 
