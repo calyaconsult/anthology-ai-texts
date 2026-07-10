@@ -14,6 +14,7 @@ This repository contains various machine-generated texts. Below is a list of the
 - [Robots' Six-Day Week](Robots-Six-Day-Week.md)
 - [Semiotic Maze](Semiotic-Maze.md)
 - [Shadows of the Forgotten Temple](Shadows-of-the-Forgotten-Temple.md)
+- [Sombreville: Three Versions of Chapter 1](Sombreville-Three-Versions-of-Chapter-1.md)
 - [Sometown, Nebraska: Arrival of Villain](Sometown-Nebraska-Arrival-of-Villain.md)
 - [Sunrise in Bergen (Claude 4.6)](Sunrise-in-Bergen-Claude46.md)
 - [The Descent (Anonymous)](The-Descent-Anonymous.md)
